@@ -3,7 +3,8 @@
 Mastermind or Master Mind is a code-breaking game for two players. The modern game with pegs was invented in 1970 by Mordecai Meirowitz, an Israeli postmaster and telecommunications expert. It resembles an earlier pencil and paper game called Bulls and Cows that may date back a century or more. (Source Wikipedia)
 
 ## Rules
-1. The Mastermind (computer) will select 4 letters. The letters are randomly selected from A to F. Letters can not be duplicated but there will always be exactly 4.
+1. The first player will select 4 letters from A to F. Letters can not be duplicated but there will always be exactly 4.
+2. The second player has to guess the code.
 2. The Mastermind will return the following feedback:
 - Number of pins that are both the right letter and position
 - Number of pins that are correct in letter but in the wrong position
