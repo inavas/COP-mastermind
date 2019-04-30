@@ -1,0 +1,14 @@
+### Eclipse ###
+*.classpath
+*.project
+**/.settings/*
+**/target/*
+**/*.gz
+.springBeans
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+/target/
